@@ -11,7 +11,7 @@
 Watchtower receives information from [probes](../probe). Initially requiring three probes in a triangle formation, but it may be possible to add more probes for better accuracy.
 
 - Initially three probes, could be expanded upon by adding more probes once implemented in the future.
-- Maybe in the future you could calibrate the probes for increased accuracy.
+- Ability to calibrate probes through wireless devices. Watchtower will inform probes to start scanning and go through a calibration process where the user stands in calculated spots to alter Watchtower's math formulas.
 
 ### vs probes
 
