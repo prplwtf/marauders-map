@@ -4,9 +4,9 @@ Probes are quite simple. For them to work they need to correctly communicate wit
 
 Probes send all devices and their MAC Addresses to Watchtower, every X seconds.
 
-### Probenode
+### Goprobe
 
-Probenode is a Marauders' map probe written in Node.js. You can find Probenode in the `probe/node` directory.
+Goprobe is a Marauders' map probe written in Node.js. You can find Goprobe in the `probe/goprobe` directory.
 
 <br/>
 <br/>
