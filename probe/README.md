@@ -4,9 +4,9 @@ Probes are quite simple. For them to work they need to correctly communicate wit
 
 Probes send all devices and their MAC Addresses to Watchtower, every X seconds.
 
-### Goprobe
+### Pyprobe
 
-Goprobe is a Marauders' map probe written in Node.js. You can find Goprobe in the `probe/goprobe` directory.
+Pyprobe is a Marauders' map probe written in Python. You can find Pyprobe in the `probe/pyprobe` directory.
 
 <br/>
 <br/>
